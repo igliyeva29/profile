@@ -1,0 +1,72 @@
+.container-sm {
+    max-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.h5 {
+    font-size: 20px;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.py-4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.text-white {
+    color: white;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.border-green {
+    border: 1px solid green;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.border-radius {
+    border-radius: 5px;
+}
+
+.border-red {
+    border: 1px solid red;
+}
+
+.px-4 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.link {
+    color: black;
+}
+
+.img-radius {
+    border-radius: 50%;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bg-grey {
+    background-color: grey;
+}
